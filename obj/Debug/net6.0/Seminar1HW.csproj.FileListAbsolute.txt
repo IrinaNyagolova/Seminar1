@@ -1,0 +1,15 @@
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\bin\Debug\net6.0\Seminar1HW.exe
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\bin\Debug\net6.0\Seminar1HW.deps.json
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\bin\Debug\net6.0\Seminar1HW.runtimeconfig.json
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\bin\Debug\net6.0\Seminar1HW.dll
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\bin\Debug\net6.0\Seminar1HW.pdb
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\obj\Debug\net6.0\Seminar1HW.csproj.AssemblyReference.cache
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\obj\Debug\net6.0\Seminar1HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\obj\Debug\net6.0\Seminar1HW.AssemblyInfoInputs.cache
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\obj\Debug\net6.0\Seminar1HW.AssemblyInfo.cs
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\obj\Debug\net6.0\Seminar1HW.csproj.CoreCompileInputs.cache
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\obj\Debug\net6.0\Seminar1HW.dll
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\obj\Debug\net6.0\refint\Seminar1HW.dll
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\obj\Debug\net6.0\Seminar1HW.pdb
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\obj\Debug\net6.0\Seminar1HW.genruntimeconfig.cache
+C:\Users\Ira Niagolova\OneDrive\Desktop\Разработчик\C#\Seminar1HW\obj\Debug\net6.0\ref\Seminar1HW.dll
